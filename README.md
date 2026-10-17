@@ -8,8 +8,7 @@ A clean, modern investing app UI for Android (stocks and crypto), built with Jav
 
 | Home | Markets | Trade | Profile |
 |------|---------|-------|---------|
-| ![Home](screenshots/home.png) | ![Markets](screenshots/markets.png) | ![Trade](screenshots/trade.png) | ![Profile](screenshots/profile.png) |
-
+| ![Home](screenshots/home.png.jpeg) | ![Markets](screenshots/markets.png.jpeg) | ![Trade](screenshots/trade.png.jpeg) | ![Profile](screenshots/profile.png.jpeg) |
 ## Features
 
 - **Home:** portfolio value, performance chart with a custom-drawn line and gradient fill, time filters (1D, 1W, 1M, 1Y, All), quick actions (Buy, Sell, Swap, Deposit) and a holdings list
