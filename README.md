@@ -37,3 +37,5 @@ A clean, modern investing app UI for Android (stocks and crypto), built with Jav
 
 **Waleed Arshad**, Android developer
 GitHub: [itxwaleed007-dotcom](https://github.com/itxwaleed007-dotcom)
+LinkedIn: [Waleed Arshad](https://www.linkedin.com/in/waleed-arshad-1b0882288/)
+
